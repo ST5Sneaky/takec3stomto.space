@@ -6,6 +6,8 @@ This is a meme made about b1nzy, an ex-[Discord](https://discordapp.com) develop
 
 Also, there's this guy called meew0. He hates eyes. He uses the light theme. ¯\\\_(ツ)_/¯
 
+This is a custom test of it!
+
 ## Keyboard shortcuts
 
 - `s` => skip the current song
