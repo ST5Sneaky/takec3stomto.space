@@ -8,6 +8,8 @@ Also, there's this guy called meew0. He hates eyes. He uses the light theme. ¯\
 
 This is a custom test of it!
 
+It kinda dont work, soo yeah...
+
 ## Keyboard shortcuts
 
 - `s` => skip the current song
